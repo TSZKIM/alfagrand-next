@@ -1,0 +1,554 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "application": "Application",
+    "knowledge": "Knowledge Center",
+    "contact": "Contact Us",
+    "getQuote": "Get Quote"
+  },
+  "hero": {
+    "badge": "Since 2017 · Trusted by 50+ Countries",
+    "title": {
+      "line1": "PRECISION IN",
+      "line2": "EVERY FLOW"
+    },
+    "subtitle": {
+      "line1": "Professional Water Pump Solutions",
+      "line2": "for Global Markets"
+    },
+    "description": "Professional water pump manufacturer with 8+ years of expertise serving global markets. Delivering reliable pumping solutions across Southeast Asia, Middle East, South America and Africa.",
+    "cta": "Get a Quote",
+    "ctaSecondary": "Download Catalog",
+    "ctaWhatsApp": "WhatsApp Us",
+    "exploreProducts": "Explore Products",
+    "requestQuote": "Request Quote",
+    "features": {
+      "efficiency": "High Efficiency",
+      "quality": "Reliable Quality",
+      "support": "Global Support",
+      "sustainable": "Sustainable Solution"
+    },
+    "stats": {
+      "years": "Years Experience",
+      "countries": "Countries Served",
+      "turnover": "Annual Turnover",
+      "shipping": "Yearly Shipping",
+      "service": {
+        "label": "Service"
+      },
+      "tested": {
+        "label": "Tested Before Delivery"
+      }
+    }
+  },
+  "products": {
+    "title": "Product Line",
+    "titlePrefix": "OUR ",
+    "titleSuffix": "PRODUCT SOLUTIONS",
+    "subtitle": "Engineered for performance. Built for reliability. Trusted around the world.",
+    "description": "From residential water supply to industrial applications, we offer a comprehensive range of pumps engineered for performance and reliability.",
+    "viewProducts": "View Products",
+    "accessories": "Accessories & Components",
+    "vortexPump": "Vortex Pump",
+    "vortexPumpSubtitle": "Self-priming & High Suction",
+    "vortexPumpDesc": "Ideal for clean water transfer with excellent self-priming capability. Suitable for domestic, agricultural and industrial applications.",
+    "centrifugalPump": "Centrifugal Pump",
+    "centrifugalPumpSubtitle": "High Efficiency & Durability",
+    "centrifugalPumpDesc": "Engineered for maximum hydraulic efficiency with corrosion-resistant components. Perfect for water supply and irrigation systems.",
+    "submersiblePump": "Submersible Pump",
+    "submersiblePumpSubtitle": "Deep Well & High Lift",
+    "submersiblePumpDesc": "Designed for deep well applications with robust stainless steel construction. Reliable performance in demanding environments.",
+    "solarPump": "Solar Water Pump",
+    "solarPumpSubtitle": "Eco-Friendly & Energy Saving",
+    "solarPumpDesc": "Solar-powered pumping system ideal for remote areas without grid electricity. Reduces operational costs with zero fuel consumption.",
+    "gardenPump": "Garden Pump",
+    "gardenPumpSubtitle": "Compact & Easy to Use",
+    "gardenPumpDesc": "Lightweight and portable pumps designed for home gardening, lawn irrigation, car washing and small-scale water transfer.",
+    "sewagePump": "Sewage Pump",
+    "sewagePumpSubtitle": "Heavy Duty & Reliable",
+    "sewagePumpDesc": "Built to handle wastewater with large particle passage capability. Engineered for long service life in harsh conditions.",
+    "jetPump": "Deep Well Jet Pump",
+    "jetPumpSubtitle": "Shallow & Deep Well Options",
+    "jetPumpDesc": "Combination of centrifugal and ejector principles for superior suction performance in well water extraction.",
+    "variableFreqPump": "Variable Frequency Pump",
+    "variableFreqPumpSubtitle": "Permanent Magnet & Energy Saving",
+    "variableFreqPumpDesc": "Advanced permanent magnet synchronous motor with variable frequency drive. Achieves up to 40% energy savings compared to traditional induction motors.",
+    "features": {
+      "selfPriming": "Self-priming up to 8m",
+      "flowRate": "Flow rate up to 90L/min",
+      "lowNoise": "Low noise operation",
+      "efficiency": "Efficiency >85%",
+      "castIron": "Cast iron body",
+      "multiStage": "Multiple stage options",
+      "depth": "Depth up to 300m",
+      "stainlessSteel": "Stainless steel casing",
+      "thermalProtection": "Built-in thermal protection",
+      "dcAc": "DC/AC compatible",
+      "mppt": "MPPT controller",
+      "autoSwitch": "Auto day/night switch",
+      "portable": "Portable design",
+      "plugAndPlay": "Plug-and-play",
+      "nozzles": "Multiple nozzle options",
+      "solidsHandling": "Solids handling 35mm",
+      "doubleSeal": "Double mechanical seal",
+      "dryRun": "Dry-run protection",
+      "suctionLift": "Suction lift up to 30m",
+      "pressureControl": "Automatic pressure control",
+      "corrosionResistant": "Corrosion resistant"
+    },
+    "accessoriesList": {
+      "pressureController": "Pressure Controller",
+      "pressureControllerDesc": "Automatic pressure switch with dry-run protection and built-in flow sensor for intelligent pump control.",
+      "pressureTank": "Pressure Tank",
+      "pressureTankDesc": "Pre-charged diaphragm tanks to reduce pump cycling, extend pump life and maintain consistent water pressure.",
+      "waterValve": "Water Valve",
+      "waterValveDesc": "Full range of gate valves, ball valves, check valves and solenoid valves for complete pipeline control.",
+      "pressureControllerSubtitle": "Smart Control",
+      "pressureTankSubtitle": "Pressure Stability",
+      "waterValveSubtitle": "Pipeline Control"
+    },
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "About ALFAGRAND",
+    "subtitle": "Powering Flow, Building Trust",
+    "paragraph1": "ALFAGRAND is headquartered in Yiwu, Zhejiang �?the world's largest small commodity procurement center, which enables us to source efficiently with convenient logistics. We specialize in supplying a wide range of water pumps, solar pumps, garden pumps, pressure controllers, water valves, generators, electric motors, air coolers and more.",
+    "paragraph2": "Shipping around 500 to 700 TEU each year, our annual turnover reaches nearly USD 18 million. With over eight years of experience in this field, we have established a comprehensive network of qualified suppliers and trained personnel providing first-class service to buyers worldwide. Our company enjoys an upstanding reputation with customers across Middle East, Europe, America, Africa, and Latin America. OEM/ODM orders are always welcome.",
+    "facility": "30,000m² Facility",
+    "iso": "ISO 9001 Certified",
+    "countries": "50+ Countries",
+    "oem": "OEM/ODM Service",
+    "learnMore": "Learn More About Us"
+  },
+  "advantages": {
+    "title": "Why Choose Us",
+    "subtitle": "Your Trusted Pump Partner",
+    "items": {
+      "efficiency": {
+        "title": "High Efficiency",
+        "subtitle": "高效节能",
+        "desc": "Advanced hydraulic design with optimized impeller geometry delivers industry-leading efficiency, reducing energy consumption by up to 20%."
+      },
+      "performance": {
+        "title": "Powerful Performance",
+        "subtitle": "强劲动力",
+        "desc": "Premium motors and robust construction ensure consistent high-flow output even in demanding conditions and extreme environments."
+      },
+      "reliability": {
+        "title": "Stable & Reliable",
+        "subtitle": "稳定可靠",
+        "desc": "100% performance testing before shipment, ISO 9001:2015 certified quality management with rigorous QC protocols for every unit."
+      },
+      "custom": {
+        "title": "Custom & Corrosion-Resistant",
+        "subtitle": "定制耐腐蚀",
+        "desc": "OEM/ODM capability with stainless steel, cast iron and special alloy options. Customized specifications for diverse market requirements."
+      },
+      "smart": {
+        "title": "Smart Monitoring",
+        "subtitle": "智能监测",
+        "desc": "Intelligent pump controllers with real-time monitoring, auto-protection and remote diagnosis for modern water management systems."
+      },
+      "applications": {
+        "title": "Wide Applications",
+        "subtitle": "应用广泛",
+        "desc": "Serving agriculture, industry, residential, mining and municipal sectors across 50+ countries with specialized solutions."
+      },
+      "service": {
+        "title": "Global Service",
+        "subtitle": "全球服务",
+        "desc": "24/7 technical support, 18-month warranty, spare parts guarantee and on-site commissioning across Southeast Asia, Middle East, Africa."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "subtitle": "Sustainable Development",
+        "desc": "Solar pump systems and energy-efficient designs reducing carbon footprint. Committed to green technology and sustainable water solutions."
+      }
+    }
+  },
+  "news": {
+    "title": "Latest Updates",
+    "subtitle": "Knowledge Center",
+    "readMore": "Read More",
+    "tabs": {
+      "all": "All",
+      "company": "Company News",
+      "knowledge": "Pump Knowledge",
+      "qa": "Q&A"
+    },
+    "items": {
+      "pumpLaunch": {
+        "title": "ALFAGRAND Launches New High-Efficiency Multistage Pump Series",
+        "excerpt": "Our latest multistage pump series achieves industry-leading efficiency of 87%, reducing energy consumption by up to 15%.",
+        "category": "Product Launch",
+        "date": "2026-05-20"
+      },
+      "exhibition": {
+        "title": "Successful Exhibition at Water Expo Middle East 2026",
+        "excerpt": "ALFAGRAND showcased 30+ products at the Dubai exhibition, establishing new partnerships with distributors from 8 countries.",
+        "category": "Event",
+        "date": "2026-04-15"
+      },
+      "certification": {
+        "title": "ISO 9001:2015 Certification Renewed Successfully",
+        "excerpt": "Our quality management system passed the annual audit with zero non-conformities, maintaining our commitment to excellence.",
+        "category": "Company News",
+        "date": "2026-03-08"
+      },
+      "pumpSelection": {
+        "title": "How to Select the Right Water Pump for Your Application",
+        "excerpt": "Learn the 5 key parameters for pump selection: flow rate, head, pump type, material, and motor power calculation.",
+        "category": "Pump Knowledge"
+      },
+      "pumpMaintenance": {
+        "title": "5 Essential Pump Maintenance Tips to Extend Equipment Life",
+        "excerpt": "Proper maintenance can extend pump life by 5–10 years. Learn vibration monitoring, seal inspection, and lubrication best practices.",
+        "category": "Pump Knowledge"
+      },
+      "qaFlowRate": {
+        "title": "Q&A: How Do I Calculate the Right Flow Rate for My Irrigation Pump?",
+        "excerpt": "Expert answer on calculating flow rate and head for irrigation systems. Step-by-step guide with examples.",
+        "category": "Q&A"
+      }
+    },
+    "qa": {
+      "submitTitle": "Have a Pump Question?",
+      "submitDesc": "Submit your question to our engineering team. We'll answer it and (with your permission) publish it here to help others.",
+      "submitBtn": "Submit Your Question"
+    }
+  },
+  "manufacturing": {
+    "label": "MANUFACTURING CAPABILITY",
+    "title": "BUILT WITH <bold1>PRECISION</bold1>. DELIVERED WITH <bold2>RELIABILITY</bold2>.",
+    "subtitle": "At ALFAGRAND, we operate advanced facilities equipped with precision CNC machining, automated assembly lines, and comprehensive testing labs. Our integrated manufacturing capabilities enable us to maintain strict quality control at every stage from raw materials to finished products.",
+    "cards": {
+      "cnc": {
+        "title": "CNC MACHINING",
+        "desc": "High-precision CNC machining ensures exact parts and stable performance. Every component is manufactured to strict tolerances for reliable operation."
+      },
+      "automated": {
+        "title": "AUTOMATED PRODUCTION",
+        "desc": "Standardized production lines improve efficiency and consistency. Automation reduces human error and accelerates delivery time while maintaining quality."
+      },
+      "testing": {
+        "title": "PERFORMANCE TESTING",
+        "desc": "100% performance testing on every pump to ensure reliability before delivery. Each unit undergoes flow rate, head pressure, and efficiency verification."
+      },
+      "quality": {
+        "title": "QUALITY CONTROL",
+        "desc": "Strict quality inspections at every stage from incoming materials to final packaging. ISO 9001 certified quality management system in place."
+      },
+      "assembly": {
+        "title": "ASSEMBLY LINE",
+        "desc": "Skilled assembly team ensures each product is built with care and precision. Systematic workflow with standardized procedures and checkpoints."
+      },
+      "warehouse": {
+        "title": "WAREHOUSE & LOGISTICS",
+        "desc": "Efficient warehouse management and global logistics system ensuring timely delivery worldwide."
+      }
+    },
+    "stats": {
+      "area": "Modern Production Area",
+      "employees": "Skilled Employees",
+      "experience": "Years Manufacturing Experience",
+      "tested": "Performance Tested Before Delivery",
+      "lines": "Production Lines Worldwide Standard",
+      "equipment": "Advanced Manufacturing Equipment"
+    },
+    "footer": "With over 20 years of manufacturing expertise, ALFAGRAND combines cutting-edge technology with skilled workmanship. Our production facility is equipped to handle everything from precision machining to final assembly, ensuring every pump that leaves our factory meets the highest international quality standards."
+  },
+  "industries": {
+    "label": "APPLICATION INDUSTRIES",
+    "titleLine1": "SOLUTIONS FOR EVERY",
+    "titleLine2": "WATER CHALLENGE",
+    "subtitle": "ALFAGRAND pumps deliver reliable performance across diverse applications. From clean water supply to industrial transfer, our solutions are engineered for efficiency and durability in every environment.",
+    "suitableProducts": "Suitable Products",
+    "cards": {
+      "residential": {
+        "title": "Residential Water Supply",
+        "desc": "Reliable water pressure for homes with energy-efficient pumps designed for quiet operation and long service life.",
+        "p1": "Peripheral Pump",
+        "p2": "Self-Priming Jet Pump",
+        "p3": "Variable Frequency Pump"
+      },
+      "agricultural": {
+        "title": "Agricultural Irrigation",
+        "desc": "High-volume water delivery for farms with durable pumps built to handle demanding irrigation schedules.",
+        "p1": "Solar Pump System",
+        "p2": "Deep Well Pump",
+        "p3": "Centrifugal Pump"
+      },
+      "commercial": {
+        "title": "Commercial Buildings",
+        "desc": "Pressurized water supply systems for office buildings, hotels, apartments and commercial complexes.",
+        "p1": "Multi-stage Pump & Pump Sets",
+        "p2": "Variable Frequency Pump",
+        "p3": "Centrifugal Pump"
+      },
+      "solar": {
+        "title": "Solar Pumping Systems",
+        "desc": "Eco-friendly water pumping for remote areas using solar energy with zero operational cost and environmental impact.",
+        "p1": "Solar Pump System",
+        "p2": "Deep Well Pump"
+      },
+      "industrial": {
+        "title": "Industrial Transfer",
+        "desc": "Heavy-duty pumps for process water, cooling systems and industrial fluid transfer with robust construction.",
+        "p1": "Centrifugal Pump",
+        "p2": "Submersible Sewage Pump",
+        "p3": "Multi-stage Pump & Pump Sets"
+      },
+      "wastewater": {
+        "title": "Wastewater & Drainage",
+        "desc": "Specialized pumps for sewage, drainage and wastewater treatment with large particle passage capability.",
+        "p1": "Submersible Sewage Pump",
+        "p2": "Centrifugal Pump"
+      }
+    },
+    "features": {
+      "reliable": "Reliable Performance",
+      "efficient": "Energy Efficient",
+      "maintenance": "Easy Maintenance",
+      "support": "Professional Support",
+      "global": "Global Solutions"
+    }
+  },
+  "certificates": {
+    "label": "CERTIFICATES & STANDARDS",
+    "titleLine1": "CERTIFIED QUALITY.",
+    "titleLine2": "TRUSTED WORLDWIDE.",
+    "subtitle": "Manufactured in compliance with international standards to ensure quality, safety and reliability across all products.",
+    "certificates": "Our Certificates",
+    "certificationTitle": "Certifications",
+    "certs": {
+      "iso9001": {
+        "label": "ISO 9001",
+        "title": "ISO 9001 - Quality Management System",
+        "desc": "Certified quality management system ensuring consistent quality control at every production stage from design to delivery."
+      },
+      "ce": {
+        "label": "CE",
+        "title": "CE - European Market Compliance",
+        "desc": "Products comply with EU health, safety and environmental requirements for the European Economic Area."
+      },
+      "rohs": {
+        "label": "RoHS",
+        "title": "RoHS - Environmental Compliance",
+        "desc": "Compliant with directive restricting hazardous substances, meeting global environmental and safety regulations."
+      },
+      "tuv": {
+        "label": "TÜV",
+        "title": "TÜV - Independent Testing & Verification",
+        "desc": "Third-party testing and verification by TÜV, one of the world's leading independent testing organizations."
+      }
+    },
+    "stats": {
+      "standards": "International Standards",
+      "countries": "Countries Served",
+      "quality": "Quality Assurance",
+      "annual": "Annual Production Value"
+    }
+  },
+  "knowledge": {
+    "label": "KNOWLEDGE CENTER",
+    "titleLine1": "Technical Knowledge &",
+    "titleLine2": "Industry Resources",
+    "subtitle": "Explore expert insights, practical guides, and industry solutions to help you design, install, and maintain pumping systems with confidence.",
+    "latestTitle": "Latest Articles",
+    "latestSubtitle": "Stay updated with pump industry knowledge",
+    "viewAll": "View All Articles",
+    "categories": {
+      "technical": {
+        "title": "TECHNICAL INSIGHTS",
+        "desc": "Understand pump principles, performance characteristics and key technical concepts.",
+        "viewAll": "VIEW ALL TECHNICAL INSIGHTS",
+        "articles": [
+          "How to Read Pump Performance Curves",
+          "Understanding Flow Rate, Head & Efficiency",
+          "Common Pump Selection Mistakes to Avoid",
+          "Pump Types and Their Working Principles"
+        ]
+      },
+      "maintenance": {
+        "title": "INSTALLATION & MAINTENANCE",
+        "desc": "Step-by-step guides and best practices for safe installation and long-term pump care.",
+        "viewAll": "VIEW ALL INSTALLATION & MAINTENANCE",
+        "articles": [
+          "Pump Installation Step-by-Step Guide",
+          "Routine Maintenance Best Practices",
+          "Troubleshooting Common Pump Issues",
+          "How to Extend Your Pump's Service Life"
+        ]
+      },
+      "solutions": {
+        "title": "INDUSTRY SOLUTIONS",
+        "desc": "Explore real-world applications and pumping solutions across various industries.",
+        "viewAll": "VIEW ALL INDUSTRY SOLUTIONS",
+        "articles": [
+          "Agricultural Irrigation Water Solutions",
+          "Deep Well Water Supply Applications",
+          "Industrial Water & Process Solutions",
+          "Solar Pumping System Applications"
+        ]
+      }
+    },
+    "articles": {
+      "deepWell": {
+        "title": "How to Select a Deep Well Pump for Agricultural Irrigation"
+      },
+      "centrifugal": {
+        "title": "Peripheral Pump vs Centrifugal Pump: What's The Difference?"
+      },
+      "performance": {
+        "title": "Understanding Pump Performance Curves: A Complete Guide"
+      }
+    }
+  },
+  "cta": {
+    "label": "LET'S BUILD BETTER SOLUTIONS TOGETHER",
+    "titleLine1": "READY TO FIND THE RIGHT PUMP",
+    "titleLine2": "SOLUTION?",
+    "subtitle": "Tell us your requirements and our engineering team will recommend the most suitable pump solution for your project.",
+    "productShowcase": "Deep Well Pumps, Centrifugal Pumps, Solar Pump Systems, VFD Controllers and more.",
+    "actions": {
+      "quote": {
+        "title": "GET A QUOTE",
+        "desc": "Provide your project details and receive a competitive quotation quickly.",
+        "btn": "REQUEST QUOTE"
+      },
+      "whatsapp": {
+        "title": "CONTACT OUR EXPERTS",
+        "desc": "Chat directly with our pump experts on WhatsApp for fast answers.",
+        "btn": "CHAT ON WHATSAPP"
+      },
+      "oem": {
+        "title": "OEM & ODM INQUIRY",
+        "desc": "Custom pump solutions for your brand. Let's build together.",
+        "btn": "OEM & ODM SERVICE"
+      }
+    },
+    "stats": {
+      "experience": "Years Experience",
+      "countries": "Countries Served",
+      "models": "Pump Models",
+      "oem": "OEM & ODM Custom"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's Work Together",
+    "description": "Whether you need product details, pricing information or custom solutions, our team is ready to help.",
+    "labels": {
+      "name": "Your Name *",
+      "company": "Company",
+      "email": "Email *",
+      "product": "Interested Products",
+      "message": "Message",
+      "send": "Send Inquiry",
+      "sending": "Sending..."
+    },
+    "products": {
+      "select": "Select a product category",
+      "vortex": "Vortex Pump",
+      "centrifugal": "Centrifugal Pump",
+      "submersible": "Submersible Pump",
+      "peripheral": "Peripheral Pump",
+      "jet": "Jet Pump",
+      "sewage": "Sewage Pump",
+      "multistage": "Multistage Pump",
+      "vfd": "Variable Frequency Pump",
+      "deepwell": "Deep Well Pump",
+      "solar": "Solar Pump System",
+      "accessories": "Accessories"
+    },
+    "success": {
+      "title": "Inquiry Sent!",
+      "message": "We will get back to you within 24 hours."
+    },
+    "error": {
+      "title": "Failed to send.",
+      "message": "Please try again or email us directly at info@grandpumps.com"
+    },
+    "info": {
+      "office": "Yiwu Office",
+      "phone": "Tel / WhatsApp",
+      "email": "Email",
+      "address": "Room 1102, Unit 1, Building 5, Jiarui Huating, Chengxi Subdistrict, Yiwu, Zhejiang, China"
+    }
+  },
+  "footer": {
+    "description": "Professional water pump manufacturer delivering reliable solutions to 50+ countries worldwide.",
+    "quickLinks": "Quick Links",
+    "products": "Products",
+    "application": "Application",
+    "knowledge": "Knowledge Center",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "All rights reserved.",
+    "address": "Room 1102, Unit 1, Building 5, Jiarui Huating, Chengxi Subdistrict, Yiwu, Zhejiang, China"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: July 2026",
+    "s1": {
+      "title": "Information We Collect",
+      "content": "When you submit an inquiry or contact form on our website, we collect the personal information you provide, such as your name, email address, company name, phone number, and any message content. We also automatically collect certain technical information including your IP address, browser type, and pages visited through standard web analytics."
+    },
+    "s2": {
+      "title": "How We Use Your Information",
+      "content": "We use your information to respond to your inquiries, provide product information and quotations, process orders, improve our website and services, and communicate important updates about our products."
+    },
+    "s3": {
+      "title": "Data Sharing & Third Parties",
+      "content": "We do not sell, trade, or rent your personal information to third parties. We may share data with trusted service providers who assist us in operating our website, provided they agree to keep your information confidential."
+    },
+    "s4": {
+      "title": "Data Security",
+      "content": "We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. Our website uses SSL encryption."
+    },
+    "s5": {
+      "title": "Cookies",
+      "content": "Our website may use cookies and similar tracking technologies to enhance your browsing experience. You can control cookie settings through your browser preferences."
+    },
+    "s6": {
+      "title": "Your Rights",
+      "content": "Depending on your jurisdiction, you may have the right to access, correct, delete, or restrict processing of your personal data. To exercise these rights, please contact us at info@grandpumps.com."
+    },
+    "s7": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy, please contact us at info@grandpumps.com. ALFAGRAND, Yiwu, Zhejiang, China. Phone: +86-18657933982."
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: July 2026",
+    "s1": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing and using the ALFAGRAND website, you agree to be bound by these Terms of Service."
+    },
+    "s2": {
+      "title": "Use of Website",
+      "content": "You may use our website for lawful purposes only. All content including text, images, logos is the property of ALFAGRAND."
+    },
+    "s3": {
+      "title": "Product Information",
+      "content": "Product details, pricing, and availability are subject to change without notice. Images are for illustration purposes."
+    },
+    "s4": {
+      "title": "Intellectual Property",
+      "content": "The ALFAGRAND name and logo are trademarks. You may not use them without prior written permission."
+    },
+    "s5": {
+      "title": "Limitation of Liability",
+      "content": "ALFAGRAND shall not be liable for any damages arising from the use of our website. We provide the website \"as is\"."
+    },
+    "s6": {
+      "title": "Contact",
+      "content": "For questions about these Terms, contact us at info@grandpumps.com. Phone: +86-18657933982."
+    }
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À Propos",
+    "application": "Application",
+    "knowledge": "Centre de Connaissances",
+    "contact": "Contact",
+    "getQuote": "Obtenir un Devis"
+  },
+  "hero": {
+    "badge": "Depuis 2009 · Fié aux 50+ Pays",
+    "title": {
+      "line1": "PRÉCISION DANS",
+      "line2": "CHAQUE FLUX"
+    },
+    "subtitle": {
+      "line1": "Solutions Professionnelles de Pompes à Eau",
+      "line2": "pour les Marchés Mondiaux"
+    },
+    "description": "Fabricant professionnel de pompes à eau avec plus de 8 ans d'expertise servant les marchés mondiaux. Fournissant des solutions de pompage fiables à travers l'Asie du Sud-Est, le Moyen-Orient, l'Amérique du Sud et l'Afrique.",
+    "cta": "Obtenir un Devis",
+    "ctaSecondary": "Télécharger le Catalogue",
+    "ctaWhatsApp": "WhatsApp",
+    "exploreProducts": "Explorer les Produits",
+    "requestQuote": "Demander un Devis",
+    "features": {
+      "efficiency": "Haute Efficacité",
+      "quality": "Qualité Fiable",
+      "support": "Support Global",
+      "sustainable": "Solution Durable"
+    },
+    "stats": {
+      "years": "Années d'Expérience",
+      "countries": "Pays Servis",
+      "turnover": "Chiffre d'Affaires Annuel",
+      "shipping": "Expédition Annuelle",
+      "service": {
+        "label": "Service"
+      },
+      "tested": {
+        "label": "Testé Avant Livraison"
+      }
+    }
+  },
+  "products": {
+    "title": "Gamme de Produits",
+    "titlePrefix": "NOS ",
+    "titleSuffix": "SOLUTIONS DE PRODUITS",
+    "subtitle": "Conçus pour les performances. Construits pour la fiabilité. Fait confiance dans le monde entier.",
+    "description": "De l'alimentation en eau résidentielle aux applications industrielles, nous offrons une gamme complète de pompes conçues pour la performance et la fiabilité.",
+    "viewProducts": "Voir les Produits",
+    "accessories": "Accessoires et Composants",
+    "vortexPump": "Pompe Vortex",
+    "vortexPumpSubtitle": "Auto-Amortissante et Haute Aspiration",
+    "vortexPumpDesc": "Idéale pour le transfert d'eau propre avec d'excellentes capacités d'auto-amorçage. Adaptée aux applications domestiques, agricoles et industrielles.",
+    "centrifugalPump": "Pompe Centrifuge",
+    "centrifugalPumpSubtitle": "Haute Efficacité et Durabilité",
+    "centrifugalPumpDesc": "Conçue pour une efficacité hydraulique maximale avec des composants résistants à la corrosion. Parfaite pour l'alimentation en eau et les systèmes d'irrigation.",
+    "submersiblePump": "Pompe Submersible",
+    "submersiblePumpSubtitle": "Puits Profond et Haute Montée",
+    "submersiblePumpDesc": "Conçue pour les applications de puits profond avec une robuste construction en acier inoxydable. Performance fiable dans les environnements exigeants.",
+    "solarPump": "Pompe à Eau Solaire",
+    "solarPumpSubtitle": "Éco-Responsable et Économie d'Énergie",
+    "solarPumpDesc": "Système de pompage alimenté à l'énergie solaire idéal pour les zones reculées sans électricité de réseau. Réduit les coûts opérationnels avec une consommation de carburant nulle.",
+    "gardenPump": "Pompe de Jardin",
+    "gardenPumpSubtitle": "Compacte et Facile à Utiliser",
+    "gardenPumpDesc": "Pompes légères et portables conçues pour le jardinage domestique, l'irrigation de pelouse, le lavage de voiture et le transfert d'eau à petite échelle.",
+    "sewagePump": "Pompe d'Eaux Usées",
+    "sewagePumpSubtitle": "Service Lourd et Fiable",
+    "sewagePumpDesc": "Conçue pour traiter les eaux usées avec une capacité de passage de particules importantes. Conçue pour une longue durée de vie dans des conditions sévères.",
+    "jetPump": "Pompe à Jet Puits Profond",
+    "jetPumpSubtitle": "Options Puits Little et Profond",
+    "jetPumpDesc": "Combinaison des principes centrifuges et éjecteurs pour une performance d'aspiration supérieure dans l'extraction d'eau de puits.",
+    "variableFreqPump": "Pompe à Fréquence Variable",
+    "variableFreqPumpSubtitle": "Aimant Permanent et Economie d Energie",
+    "variableFreqPumpDesc": "Moteur synchrone a aimant permanent avance avec variateur de frequence. Realise jusqu a 40% d economie d energie par rapport aux moteurs a induction traditionnels.",
+    "features": {
+      "selfPriming": "Auto-amorçage jusqu'à 8m",
+      "flowRate": "Débit jusqu'à 90L/min",
+      "lowNoise": "Fonctionnement faible bruit",
+      "efficiency": "Efficacité >85%",
+      "castIron": "Corps en fonte",
+      "multiStage": "Options multi-étages",
+      "depth": "Profondeur jusqu'à 300m",
+      "stainlessSteel": "Carcasse en acier inoxydable",
+      "thermalProtection": "Protection thermique intégrée",
+      "dcAc": "Compatible DC/AC",
+      "mppt": "Contrôleur MPPT",
+      "autoSwitch": "Commutation automatique jour/nuit",
+      "portable": "Conception portable",
+      "plugAndPlay": "Plug-and-play",
+      "nozzles": "Options de buses multiples",
+      "solidsHandling": "Manipulation de solides 35mm",
+      "doubleSeal": "Double joint mécanique",
+      "dryRun": "Protection contre la marche à sec",
+      "suctionLift": "Hauteur d'aspiration jusqu'à 30m",
+      "pressureControl": "Contrôle automatique de la pression",
+      "corrosionResistant": "Résistant à la corrosion"
+    },
+    "accessoriesList": {
+      "pressureController": "Contrôleur de Pression",
+      "pressureControllerDesc": "Interrupteur de pression automatique avec protection contre la marche à sec et capteur de débit intégré pour un contrôle intelligent de la pompe.",
+      "pressureTank": "Réservoir de Pression",
+      "pressureTankDesc": "Réservoirs à membrane pré-chargés pour réduire le cyclage de la pompe, prolonger la durée de vie de la pompe et maintenir une pression d'eau cohérente.",
+      "waterValve": "Vanne d'Eau",
+      "waterValveDesc": "Gamme complète de vannes de fond de cuve, vannes à boisseau, vannes de non-retour et vannes électromagnétiques pour un contrôle complet des tuyauteries.",
+      "pressureControllerSubtitle": "Contrôle Intelligent",
+      "pressureTankSubtitle": "Stabilité de Pression",
+      "waterValveSubtitle": "Contrôle de Tuyauterie"
+    },
+    "learnMore": "En Savoir Plus"
+  },
+  "about": {
+    "title": "À Propos d'ALFAGRAND",
+    "subtitle": "Alimenter le Flux, Construire la Confiance",
+    "paragraph1": "ALFAGRAND a son siège à Yiwu, Zhejiang — le plus grand centre d'achat de produits de base au monde, ce qui nous permet de nous approvisionner efficacement avec une logistique pratique. Nous sommes spécialisés dans la fourniture d'une large gamme de pompes à eau, pompes solaires, pompes de jardin, contrôleurs de pression, vannes d'eau, générateurs, moteurs électriques, refroidisseurs d'air et plus encore.",
+    "paragraph2": "Expédition d'environ 500 à 700 TEU chaque année, notre chiffre d'affaires annuel atteint près de 18 millions USD. Avec plus de huit ans d'expérience dans ce domaine, nous avons établi un réseau complet de fournisseurs qualifiés et de personnel formé fournissant un service de première classe aux acheteurs du monde entier. Notre entreprise jouit d'une réputation distinguée auprès des clients à travers le Moyen-Orient, l'Europe, l'Amérique, l'Afrique et l'Amérique latine. Les commandes OEM/ODM sont toujours les bienvenues.",
+    "facility": "Instalation de 30 000m²",
+    "iso": "Certifié ISO 9001",
+    "countries": "50+ Pays",
+    "oem": "Service OEM/ODM",
+    "learnMore": "En Savoir Plus Sur Nous"
+  },
+  "advantages": {
+    "title": "Pourquoi Nous Choisir",
+    "subtitle": "Votre Partenaire de Confiance en Pompage",
+    "items": {
+      "efficiency": {
+        "title": "Haute Efficacité",
+        "subtitle": "高效节能",
+        "desc": "Conception hydraulique avancée avec géométrie d'roue pompe optimisée offre une efficacité leader dans l'industrie, réduisant la consommation d'énergie jusqu'à 20%."
+      },
+      "performance": {
+        "title": "Performance Puissante",
+        "subtitle": "强劲动力",
+        "desc": "Moteurs premium et construction robuste assurent une sortie de débit élevé et cohérente même dans des conditions exigeantes et des environnements extrêmes."
+      },
+      "reliability": {
+        "title": "Stable et Fiable",
+        "subtitle": "稳定可靠",
+        "desc": "100% de tests de performance avant l'expédition, gestion de la qualité certifiée ISO 9001:2015 avec des protocoles QC rigoureux pour chaque unité."
+      },
+      "custom": {
+        "title": "Personnalisé et Résistant à la Corrosion",
+        "subtitle": "定制耐腐蚀",
+        "desc": "Capacité OEM/ODM avec options en acier inoxydable, fonte et alliages spéciaux. Spécifications personnalisées pour diverses exigences du marché."
+      },
+      "smart": {
+        "title": "Monitoring Intelligent",
+        "subtitle": "智能监测",
+        "desc": "Contrôleurs de pompe intelligents avec monitoring en temps réel, auto-protection et diagnostic à distance pour les systèmes de gestion de l'eau modernes."
+      },
+      "applications": {
+        "title": "Applications Larges",
+        "subtitle": "应用广泛",
+        "desc": "Servant l'agriculture, l'industrie, le secteur résidentiel, l'exploitation minière et municipal dans 50+ pays avec des solutions spécialisées."
+      },
+      "service": {
+        "title": "Service Global",
+        "subtitle": "全球服务",
+        "desc": "Soutien technique 24/7, garantie de 18 mois, garantie de pièces détachées et mise en service sur site à travers l'Asie du Sud-Est, le Moyen-Orient, l'Afrique."
+      },
+      "sustainability": {
+        "title": "Durabilité",
+        "subtitle": "可持续发展",
+        "desc": "Systèmes de pompes solaires et conceptions à haute efficacité énergétique réduisant l'empreinte carbone. Engagés dans la technologie verte et les solutions d'eau durables."
+      }
+    }
+  },
+  "news": {
+    "title": "Dernières Mises à Jour",
+    "subtitle": "Actualités de l'Entreprise",
+    "readMore": "Lire Plus",
+    "items": {
+      "pumpLaunch": {
+        "title": "ALFAGRAND Lance Nouvelle Série de Pompes Multietapes à Haute Efficacité",
+        "excerpt": "Notre dernière série de pompes multietapes atteint une efficacité leader dans l'industrie de 87%, réduisant la consommation d'énergie jusqu'à 15%.",
+        "category": "Lancement de Produit",
+        "date": "2026-05-20"
+      },
+      "exhibition": {
+        "title": "Exposition Réussie au Water Expo Moyen-Orient 2026",
+        "excerpt": "ALFAGRAND a présenté plus de 30 produits à l'exposition de Dubaï, établissant de nouveaux partenariats avec des distributeurs de 8 pays.",
+        "category": "Événement",
+        "date": "2026-04-15"
+      },
+      "certification": {
+        "title": "Certification ISO 9001:2015 Renouvelée Avec Succès",
+        "excerpt": "Notre système de gestion de la qualité a passé l'audit annuel avec zéro non-conformités, maintenant notre engagement envers l'excellence.",
+        "category": "Actualités de l'Entreprise",
+        "date": "2026-03-08"
+      },
+      "pumpSelection": {
+        "title": "Comment Choisir la Bonne Pompe à Eau pour Votre Application",
+        "excerpt": "Découvrez les 5 paramètres clés pour la sélection d'une pompe : débit, hauteur, type de pompe, matériau et calcul de la puissance du moteur.",
+        "category": "Connaissances des Pompes"
+      },
+      "pumpMaintenance": {
+        "title": "5 Conseils Essentiels d'Entretien des Pompes pour Prolonger la Durée de Vie de l'Équipement",
+        "excerpt": "Un entretien adéquat peut prolonger la vie de la pompe de 5 à 10 ans. Apprenez le monitorege des vibrations, l'inspection des joints et les meillores pratiques de lubrification.",
+        "category": "Connaissances des Pompes"
+      },
+      "qaFlowRate": {
+        "title": "Q&R: Comment Calculer le Bon Débit pour Ma Pompe d'Irrigation ?",
+        "excerpt": "Réponse d'expert sur le calcul du débit et de la hauteur pour les systèmes d'irrigation. Guide étape par étape avec exemples.",
+        "category": "Q&R"
+      }
+    },
+    "tabs": {
+      "all": "Tous",
+      "company": "Actualités de l'Entreprise",
+      "knowledge": "Connaissances des Pompes",
+      "qa": "Q&R"
+    },
+    "qa": {
+      "submitTitle": "Vous avez une Question sur les Pompes ?",
+      "submitDesc": "Envoyez votre question à notre équipe d'ingénierie. Nous y répondrons et (avec votre permission) la publierons ici pour aider d'autres personnes.",
+      "submitBtn": "Envoyer Votre Question"
+    }
+  },
+  "manufacturing": {
+    "label": "CAPACITÉ DE FABRICATION",
+    "title": "CONSTRUIT AVEC <bold1>PRÉCISION</bold1>. LIVRÉ AVEC <bold2>FIABILITÉ</bold2>.",
+    "subtitle": "Chez ALFAGRAND, nous exploitons des installations avancées équipées d'usinage CNC de précision, de lignes d'assemblage automatisées et de laboratoires d'essais complets. Nos capacités de fabrication intégrées nous permettent de maintenir un contrôle qualité strict à chaque étape.",
+    "cards": {
+      "cnc": {
+        "title": "USINAGE CNC",
+        "desc": "L'usinage CNC de haute précision garantit des pièces exactes et des performances stables. Chaque composant est fabriqué selon des tolérances strictes pour un fonctionnement fiable."
+      },
+      "automated": {
+        "title": "PRODUCTION AUTOMATISÉE",
+        "desc": "Des lignes de production standardisées améliorent l'efficacité et la cohérence. L'automatisation réduit les erreurs humaines et accélère les délais de livraison tout en maintenant la qualité."
+      },
+      "testing": {
+        "title": "TESTS DE PERFORMANCE",
+        "desc": "Tests de performance à 100% sur chaque pompe pour garantir la fiabilité avant la livraison. Chaque unité est soumise à une vérification du débit, de la pression et de l'efficacité."
+      },
+      "quality": {
+        "title": "CONTRÔLE QUALITÉ",
+        "desc": "Inspections qualité rigoureuses à chaque étape, des matériaux entrants à l'emballage final. Système de gestion de la qualité certifié ISO 9001 en place."
+      },
+      "assembly": {
+        "title": "LIGNE D'ASSEMBLAGE",
+        "desc": "Une équipe d'assemblage qualifiée garantit que chaque produit est construit avec soin et précision. Flux de travail systématique avec des procédures standardisées."
+      },
+      "warehouse": {
+        "title": "ENTREPÔT ET LOGISTIQUE",
+        "desc": "Gestion d'entrepôt efficace et système logistique mondial assurant des livraisons ponctuelles dans le monde entier."
+      }
+    },
+    "stats": {
+      "area": "Zone de Production Moderne",
+      "employees": "Employés Qualifiés",
+      "experience": "Années d'Expérience en Fabrication",
+      "tested": "Testé à 100% Avant Livraison",
+      "lines": "Lignes de Production Standard Mondial",
+      "equipment": "Équipements de Fabrication Avancés"
+    },
+    "footer": "Avec plus de 20 ans d'expertise en fabrication, ALFAGRAND combine une technologie de pointe avec un savoir-faire qualifié. Notre installation de production est équipée pour gérer tout, de l'usinage de précision à l'assemblage final, garantissant que chaque pompe répond aux normes de qualité internationales les plus élevées."
+  },
+  "industries": {
+    "label": "SECTEURS D'APPLICATION",
+    "titleLine1": "DES SOLUTIONS POUR TOUS",
+    "titleLine2": "LES DÉFIS HYDRAULIQUES",
+    "subtitle": "Les pompes ALFAGRAND offrent des performances fiables dans une large gamme d'applications et d'environnements. De l'alimentation en eau potable au transfert industriel, nos solutions sont conçues pour durer.",
+    "suitableProducts": "PRODUITS ADAPTÉS",
+    "cards": {
+      "residential": {
+        "title": "ALIMENTATION EN EAU RÉSIDENTIELLE",
+        "desc": "Solutions fiables de surpression d'eau pour maisons, appartements et complexes de villas. Assurant une pression d'eau constante pour les besoins domestiques quotidiens.",
+        "p1": "Pompe Périphérique",
+        "p2": "Pompe à Jet Auto-Amorçante",
+        "p3": "Pompe à Fréquence Variable"
+      },
+      "agricultural": {
+        "title": "IRRIGATION AGRICOLE",
+        "desc": "Solutions efficaces d'irrigation et de transfert d'eau pour exploitations agricoles, serres et plantations. Maximisant le rendement des cultures avec une distribution d'eau fiable.",
+        "p1": "Système de Pompe Solaire",
+        "p2": "Pompe de Puits Profond",
+        "p3": "Pompe Centrifuge"
+      },
+      "commercial": {
+        "title": "BÂTIMENTS COMMERCIAUX",
+        "desc": "Systèmes de pression d'eau pour hôtels, bureaux, centres commerciaux et complexes commerciaux. Fournissant une alimentation en eau ininterrompue pour les environnements à forte demande.",
+        "p1": "Pompe Multiétagée et Groupes",
+        "p2": "Pompe à Fréquence Variable",
+        "p3": "Pompe Centrifuge"
+      },
+      "solar": {
+        "title": "SYSTÈMES DE POMPAGE SOLAIRE",
+        "desc": "Pompage d'eau durable alimenté par énergie solaire. Idéal pour les sites isolés sans accès au réseau électrique.",
+        "p1": "Système de Pompe Solaire",
+        "p2": "Pompe de Puits Profond"
+      },
+      "industrial": {
+        "title": "TRANSFERT INDUSTRIEL",
+        "desc": "Solutions de pompage robustes pour usines, installations de traitement et sites industriels. Gestion du transfert de fluides à haut volume avec fiabilité.",
+        "p1": "Pompe Centrifuge",
+        "p2": "Pompe Submersible pour Eaux Usées",
+        "p3": "Pompe Multiétagée et Groupes"
+      },
+      "wastewater": {
+        "title": "EAUX USÉES ET DRAINAGE",
+        "desc": "Solutions robustes de drainage et de traitement des eaux usées pour les applications municipales et industrielles de gestion des eaux usées.",
+        "p1": "Pompe Submersible pour Eaux Usées",
+        "p2": "Pompe Centrifuge"
+      }
+    },
+    "features": {
+      "reliable": "Performance Fiable",
+      "efficient": "Efficacité Énergétique",
+      "maintenance": "Maintenance Facile",
+      "support": "Support Professionnel",
+      "global": "Solutions Mondiales"
+    }
+  },
+  "certificates": {
+    "label": "CERTIFICATS ET NORMES",
+    "titleLine1": "QUALITÉ CERTIFIÉE.",
+    "titleLine2": "RECONNUE MONDIALEMENT.",
+    "subtitle": "Fabriqué conformément aux normes internationales pour garantir la qualité, la sécurité et la fiabilité de tous les produits.",
+    "certificates": "Nos Certificats",
+    "certificationTitle": "Certifications",
+    "certs": {
+      "iso9001": {
+        "label": "ISO 9001",
+        "title": "ISO 9001 - Système de Management de la Qualité",
+        "desc": "Système de management de la qualité certifié garantissant un contrôle qualité constant à chaque étape de la production, de la conception à la livraison."
+      },
+      "ce": {
+        "label": "CE",
+        "title": "CE - Conformité au Marché Européen",
+        "desc": "Les produits sont conformes aux exigences de santé, de sécurité et d'environnement de l'UE pour l'Espace Économique Européen."
+      },
+      "rohs": {
+        "label": "RoHS",
+        "title": "RoHS - Conformité Environnementale",
+        "desc": "Conforme à la directive restreignant les substances dangereuses, respectant les réglementations mondiales en matière d'environnement et de sécurité."
+      },
+      "tuv": {
+        "label": "TÜV",
+        "title": "TÜV - Tests et Vérification Indépendants",
+        "desc": "Tests et vérification par des tiers effectués par TÜV, l'un des principaux organismes de test indépendants au monde."
+      }
+    },
+    "stats": {
+      "standards": "Normes Internationales",
+      "countries": "Pays Desservis",
+      "quality": "Assurance Qualité",
+      "annual": "Valeur de Production Annuelle"
+    }
+  },
+  "knowledge": {
+    "label": "CENTRE DE CONNAISSANCES",
+    "titleLine1": "Connaissances Techniques et",
+    "titleLine2": "Ressources Industrielles",
+    "subtitle": "Explorez des perspectives d'experts, des guides pratiques et des solutions industrielles pour vous aider à concevoir, installer et entretenir des systèmes de pompage en toute confiance.",
+    "latestTitle": "Derniers Articles",
+    "latestSubtitle": "Restez informé des connaissances de l'industrie des pompes",
+    "viewAll": "Voir Tous les Articles",
+    "categories": {
+      "technical": {
+        "title": "APERÇUS TECHNIQUES",
+        "desc": "Comprenez les principes des pompes, les caractéristiques de performance et les concepts techniques clés.",
+        "viewAll": "VOIR TOUS LES APERÇUS TECHNIQUES",
+        "articles": [
+          "Comment Lire les Courbes de Performance des Pompes",
+          "Comprendre le Débit, la Hauteur et l'Efficacité",
+          "Erreurs Courantes de Sélection de Pompe à Éviter",
+          "Types de Pompes et Leurs Principes de Fonctionnement"
+        ]
+      },
+      "maintenance": {
+        "title": "INSTALLATION ET MAINTENANCE",
+        "desc": "Guides étape par étape et meilleures pratiques pour une installation sécurisée et un entretien à long terme des pompes.",
+        "viewAll": "VOIR TOUTE L'INSTALLATION ET MAINTENANCE",
+        "articles": [
+          "Guide d'Installation de Pompe Étape par Étape",
+          "Meilleures Pratiques de Maintenance Courante",
+          "Dépannage des Problèmes Courants de Pompe",
+          "Comment Prolonger la Durée de Vie de Votre Pompe"
+        ]
+      },
+      "solutions": {
+        "title": "SOLUTIONS INDUSTRIELLES",
+        "desc": "Explorez des applications réelles et des solutions de pompage dans diverses industries.",
+        "viewAll": "VOIR TOUTES LES SOLUTIONS INDUSTRIELLES",
+        "articles": [
+          "Solutions d'Eau pour l'Irrigation Agricole",
+          "Applications d'Alimentation en Eau de Puits Profonds",
+          "Solutions Industrielles d'Eau et de Processus",
+          "Applications des Systèmes de Pompage Solaire"
+        ]
+      }
+    },
+    "articles": {
+      "deepWell": {
+        "title": "Comment Sélectionner une Pompe de Puits Profond pour l'Irrigation Agricole"
+      },
+      "centrifugal": {
+        "title": "Pompe Périphérique vs Pompe Centrifuge : Quelle est la Différence ?"
+      },
+      "performance": {
+        "title": "Comprendre les Courbes de Performance des Pompes : Un Guide Complet"
+      }
+    }
+  },
+  "cta": {
+    "label": "CONSTRUISONS DE MEILLEURES SOLUTIONS ENSEMBLE",
+    "titleLine1": "PRÊT À TROUVER LA BONNE SOLUTION",
+    "titleLine2": "DE POMPE ?",
+    "subtitle": "Dites-nous vos besoins et notre équipe d'ingénierie recommandera la solution de pompe la plus adaptée à votre projet.",
+    "productShowcase": "Pompes de Puits Profonds, Pompes Centrifuges, Systèmes de Pompage Solaire, Contrôleurs VFD et plus.",
+    "actions": {
+      "quote": {
+        "title": "DEMANDER UN DEVIS",
+        "desc": "Fournissez les détails de votre projet et recevez rapidement un devis compétitif.",
+        "btn": "DEMANDER UN DEVIS"
+      },
+      "whatsapp": {
+        "title": "CONTACTEZ NOS EXPERTS",
+        "desc": "Discutez directement avec nos experts en pompes sur WhatsApp pour des réponses rapides.",
+        "btn": "DISCUTER SUR WHATSAPP"
+      },
+      "oem": {
+        "title": "DEMANDE OEM ET ODM",
+        "desc": "Solutions de pompes personnalisées pour votre marque. Construisons ensemble.",
+        "btn": "SERVICE OEM ET ODM"
+      }
+    },
+    "stats": {
+      "experience": "Années d'Expérience",
+      "countries": "Pays Desservis",
+      "models": "Modèles de Pompe",
+      "oem": "OEM et ODM Personnalisé"
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Travaillons Ensemble",
+    "description": "Que vous ayez besoin de détails sur les produits, d'informations sur les prix ou de solutions personnalisées, notre équipe est prête à aider.",
+    "labels": {
+      "name": "Votre Nom *",
+      "company": "Entreprise",
+      "email": "E-mail *",
+      "product": "Produits d'Intérêt",
+      "message": "Message",
+      "send": "Envoyer la Demande",
+      "sending": "Envoi en cours..."
+    },
+    "products": {
+      "select": "Sélectionner une catégorie de produit",
+      "vortex": "Pompe Vortex",
+      "centrifugal": "Pompe Centrifuge",
+      "submersible": "Pompe Submersible",
+      "peripheral": "Pompe Périphérique",
+      "jet": "Pompe à Jet",
+      "sewage": "Pompe d'Eaux Usées",
+      "multistage": "Pompe Multietape",
+      "vfd": "Pompe à Fréquence Variable",
+      "deepwell": "Pompe de Puits Profond",
+      "solar": "Système de Pompe Solaire",
+      "accessories": "Accessoires"
+    },
+    "success": {
+      "title": "Demande Envoyée !",
+      "message": "Nous vous recontacterons dans les 24 heures."
+    },
+    "error": {
+      "title": "Échec de l'envoi.",
+      "message": "Veuillez réessayer ou nous envoyer un e-mail directement à info@grandpumps.com"
+    },
+    "info": {
+      "office": "Bureau Yiwu",
+      "phone": "Tél / WhatsApp",
+      "email": "E-mail",
+      "address": "Room 1102, Unit 1, Building 5, Jiarui Huating, Chengxi Subdistrict, Yiwu, Zhejiang, China"
+    }
+  },
+  "footer": {
+    "description": "Fabricant professionnel de pompes à eau fournissant des solutions fiables à plus de 50 pays à travers le monde.",
+    "quickLinks": "Liens Rapides",
+    "products": "Produits",
+    "application": "Application",
+    "knowledge": "Centre de Connaissances",
+    "about": "À Propos",
+    "contact": "Contact",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions de Service",
+    "copyright": "Tous droits réservés.",
+    "address": "Room 1102, Unit 1, Building 5, Jiarui Huating, Chengxi Subdistrict, Yiwu, Zhejiang, China"
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour: Juillet 2026",
+    "s1": {
+      "title": "Informations Collectées",
+      "content": "Lorsque vous soumettez un formulaire, nous collectons les informations personnelles que vous fournissez."
+    },
+    "s2": {
+      "title": "Utilisation des Informations",
+      "content": "Nous utilisons vos informations pour répondre à vos demandes et améliorer nos services."
+    },
+    "s3": {
+      "title": "Partage des Données",
+      "content": "Nous ne vendons pas vos informations personnelles à des tiers."
+    },
+    "s4": {
+      "title": "Sécurité",
+      "content": "Nous mettons en œuvre des mesures de sécurité pour protéger vos données."
+    },
+    "s5": {
+      "title": "Cookies",
+      "content": "Notre site utilise des cookies pour améliorer votre expérience."
+    },
+    "s6": {
+      "title": "Vos Droits",
+      "content": "Vous avez le droit d'accéder, de corriger ou de supprimer vos données personnelles."
+    },
+    "s7": {
+      "title": "Contact",
+      "content": "Pour toute question, contactez-nous à info@grandpumps.com."
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: July 2026",
+    "s1": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing and using the ALFAGRAND website, you agree to be bound by these Terms of Service."
+    },
+    "s2": {
+      "title": "Use of Website",
+      "content": "You may use our website for lawful purposes only. All content including text, images, logos is the property of ALFAGRAND."
+    },
+    "s3": {
+      "title": "Product Information",
+      "content": "Product details, pricing, and availability are subject to change without notice. Images are for illustration purposes."
+    },
+    "s4": {
+      "title": "Intellectual Property",
+      "content": "The ALFAGRAND name and logo are trademarks. You may not use them without prior written permission."
+    },
+    "s5": {
+      "title": "Limitation of Liability",
+      "content": "ALFAGRAND shall not be liable for any damages arising from the use of our website. We provide the website \"as is\"."
+    },
+    "s6": {
+      "title": "Contact",
+      "content": "For questions about these Terms, contact us at info@grandpumps.com. Phone: +86-18657933982."
+    }
+  }
+}

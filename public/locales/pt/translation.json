@@ -1,0 +1,554 @@
+{
+  "nav": {
+    "home": "Início",
+    "products": "Produtos",
+    "about": "Sobre Nós",
+    "application": "Aplicação",
+    "knowledge": "Centro de Conhecimento",
+    "contact": "Contato",
+    "getQuote": "Solicitar Orçamento"
+  },
+  "hero": {
+    "badge": "Desde 2017 · Confiança em 50+ Países",
+    "title": {
+      "line1": "PRECISÃO EM",
+      "line2": "CADA FLUXO"
+    },
+    "subtitle": {
+      "line1": "Soluções Profissionais de Bombas de Água",
+      "line2": "para Mercados Globais"
+    },
+    "description": "Fabricante profissional de bombas de água com mais de 8 anos de experiência atendendo mercados globais. Oferecendo soluções de bombeamento confiáveis no Sudeste Asiático, Oriente Médio, América do Sul e África.",
+    "cta": "Solicitar Orçamento",
+    "ctaSecondary": "Baixar Catálogo",
+    "ctaWhatsApp": "Fale pelo WhatsApp",
+    "exploreProducts": "Explorar Produtos",
+    "requestQuote": "Solicitar Orçamento",
+    "features": {
+      "efficiency": "Alta Eficiência",
+      "quality": "Qualidade Confiável",
+      "support": "Suporte Global",
+      "sustainable": "Solução Sustentável"
+    },
+    "stats": {
+      "years": "Anos de Experiência",
+      "countries": "Países Atendidos",
+      "turnover": "Faturamento Anual",
+      "shipping": "Embarques Anuais",
+      "service": {
+        "label": "Serviço"
+      },
+      "tested": {
+        "label": "Testado Antes da Entrega"
+      }
+    }
+  },
+  "products": {
+    "title": "Linha de Produtos",
+    "titlePrefix": "NOSSAS ",
+    "titleSuffix": "SOLUÇÕES DE PRODUTOS",
+    "subtitle": "Projetados para desempenho. Construídos para confiabilidade. Confiados em todo o mundo.",
+    "description": "Do abastecimento residencial às aplicações industriais, oferecemos uma linha abrangente de bombas projetadas para desempenho e confiabilidade.",
+    "viewProducts": "Ver Produtos",
+    "accessories": "Acessórios e Componentes",
+    "vortexPump": "Bomba Vortex",
+    "vortexPumpSubtitle": "Autoaspirante & Alta Sucção",
+    "vortexPumpDesc": "Ideal para transferência de água limpa com excelente capacidade de autoaspiração. Adequada para aplicações domésticas, agrícolas e industriais.",
+    "centrifugalPump": "Bomba Centrífuga",
+    "centrifugalPumpSubtitle": "Alta Eficiência & Durabilidade",
+    "centrifugalPumpDesc": "Projetada para máxima eficiência hidráulica com componentes resistentes à corrosão. Perfeita para sistemas de abastecimento e irrigação.",
+    "submersiblePump": "Bomba Submersível",
+    "submersiblePumpSubtitle": "Poço Profundo & Alta Elevação",
+    "submersiblePumpDesc": "Projetada para aplicações em poços profundos com construção robusta em aço inoxidável. Desempenho confiável em ambientes exigentes.",
+    "solarPump": "Bomba Solar",
+    "solarPumpSubtitle": "Ecológica & Economia de Energia",
+    "solarPumpDesc": "Sistema de bombeamento solar ideal para áreas remotas sem eletricidade. Reduz custos operacionais com zero consumo de combustível.",
+    "gardenPump": "Bomba de Jardim",
+    "gardenPumpSubtitle": "Compacta & Fácil de Usar",
+    "gardenPumpDesc": "Bombas leves e portáteis projetadas para jardinagem, irrigação de gramados, lavagem de carros e transferência de água em pequena escala.",
+    "sewagePump": "Bomba de Esgoto",
+    "sewagePumpSubtitle": "Uso Pesado & Confiável",
+    "sewagePumpDesc": "Construída para lidar com águas residuais com capacidade de passagem de grandes partículas. Projetada para longa vida útil em condições severas.",
+    "jetPump": "Bomba Jato de Poço Profundo",
+    "jetPumpSubtitle": "Opções de Poço Raso e Profundo",
+    "jetPumpDesc": "Combinação de princípios centrífugos e ejetor para desempenho de sucção superior na extração de água de poço.",
+    "variableFreqPump": "Bomba de Frequência Variável",
+    "variableFreqPumpSubtitle": "Ímã Permanente & Economia de Energia",
+    "variableFreqPumpDesc": "Motor síncrono de ímã permanente avançado com acionamento de frequência variável. Economia de até 40% de energia comparado a motores de indução tradicionais.",
+    "features": {
+      "selfPriming": "Autoaspirante até 8m",
+      "flowRate": "Vazão até 90L/min",
+      "lowNoise": "Operação de baixo ruído",
+      "efficiency": "Eficiência >85%",
+      "castIron": "Corpo em ferro fundido",
+      "multiStage": "Opções de múltiplos estágios",
+      "depth": "Profundidade até 300m",
+      "stainlessSteel": "Carcaça em aço inoxidável",
+      "thermalProtection": "Proteção térmica integrada",
+      "dcAc": "Compatível DC/AC",
+      "mppt": "Controlador MPPT",
+      "autoSwitch": "Troca automática dia/noite",
+      "portable": "Design portátil",
+      "plugAndPlay": "Plug-and-play",
+      "nozzles": "Múltiplas opções de bico",
+      "solidsHandling": "Manejo de sólidos 35mm",
+      "doubleSeal": "Selo mecânico duplo",
+      "dryRun": "Proteção contra seco",
+      "suctionLift": "Sucção até 30m",
+      "pressureControl": "Controle automático de pressão",
+      "corrosionResistant": "Resistente à corrosão"
+    },
+    "accessoriesList": {
+      "pressureController": "Controlador de Pressão",
+      "pressureControllerDesc": "Interruptor de pressão automático com proteção contra funcionamento a seco e sensor de fluxo integrado para controle inteligente da bomba.",
+      "pressureTank": "Tanque de Pressão",
+      "pressureTankDesc": "Tanques de diafragma pré-carregados para reduzir ciclagem da bomba, estender vida útil e manter pressão de água consistente.",
+      "waterValve": "Válvula de Água",
+      "waterValveDesc": "Linha completa de válvulas de gaveta, esfera, retenção e solenoide para controle total de tubulações.",
+      "pressureControllerSubtitle": "Controle Inteligente",
+      "pressureTankSubtitle": "Estabilidade de Pressão",
+      "waterValveSubtitle": "Controle de Tubulações"
+    },
+    "learnMore": "Saiba Mais"
+  },
+  "about": {
+    "title": "Sobre a ALFAGRAND",
+    "subtitle": "Impulsionando o Fluxo, Construindo Confiança",
+    "paragraph1": "A ALFAGRAND tem sede em Yiwu, Zhejiang — o maior centro de compras de pequenas mercadorias do mundo, o que nos permite obter fontes com eficiência e logística conveniente. Somos especializados no fornecimento de uma ampla gama de bombas de água, bombas solares, bombas de jardim, controladores de pressão, válvulas de água, geradores, motores elétricos, refrigeradores de ar e muito mais.",
+    "paragraph2": "Com cerca de 500 a 700 TEU embarcados anualmente, nosso faturamento anual chega a quase USD 18 milhões. Com mais de oito anos de experiência neste setor, estabelecemos uma rede abrangente de fornecedores qualificados e pessoal treinado, oferecendo serviço de primeira classe a compradores em todo o mundo. Nossa empresa desfruta de reputação destacada com clientes no Oriente Médio, Europa, América, África e América Latina. Pedidos OEM/ODM são sempre bem-vindos.",
+    "facility": "Instalação de 30.000m²",
+    "iso": "Certificação ISO 9001",
+    "countries": "50+ Países",
+    "oem": "Serviço OEM/ODM",
+    "learnMore": "Saiba Mais Sobre Nós"
+  },
+  "advantages": {
+    "title": "Por Que Nos Escolher",
+    "subtitle": "Seu Parceiro de Confiança em Bombas",
+    "items": {
+      "efficiency": {
+        "title": "Alta Eficiência",
+        "subtitle": "Eficiente e Econômico",
+        "desc": "Design hidráulico avançado com geometria de impulsor otimizada oferece eficiência líder no setor, reduzindo o consumo de energia em até 20%."
+      },
+      "performance": {
+        "title": "Desempenho Poderoso",
+        "subtitle": "Potência Robusta",
+        "desc": "Motores premium e construção robusta garantem saída de alto fluxo consistente mesmo em condições exigentes e ambientes extremos."
+      },
+      "reliability": {
+        "title": "Estável e Confiável",
+        "subtitle": "Confiabilidade Comprovada",
+        "desc": "100% de teste de desempenho antes do embarque, sistema de gestão de qualidade certificado ISO 9001:2015 com protocolos rigorosos de CQ para cada unidade."
+      },
+      "custom": {
+        "title": "Personalizado e Resistente à Corrosão",
+        "subtitle": "Sob Medida e Durável",
+        "desc": "Capacidade OEM/ODM com opções de aço inoxidável, ferro fundido e ligas especiais. Especificações personalizadas para diversos requisitos de mercado."
+      },
+      "smart": {
+        "title": "Monitoramento Inteligente",
+        "subtitle": "Tecnologia Smart",
+        "desc": "Controladores inteligentes de bombas com monitoramento em tempo real, autoproteção e diagnóstico remoto para sistemas modernos de gestão de água."
+      },
+      "applications": {
+        "title": "Amplas Aplicações",
+        "subtitle": "Versatilidade Comprovada",
+        "desc": "Atendendo os setores agrícola, industrial, residencial, minerário e municipal em 50+ países com soluções especializadas."
+      },
+      "service": {
+        "title": "Serviço Global",
+        "subtitle": "Suporte Mundial",
+        "desc": "Suporte técnico 24/7, garantia de 18 meses, garantia de peças de reposição e comissionamento no local no Sudeste Asiático, Oriente Médio e África."
+      },
+      "sustainability": {
+        "title": "Sustentabilidade",
+        "subtitle": "Desenvolvimento Sustentável",
+        "desc": "Sistemas de bombas solares e designs energeticamente eficientes reduzindo a pegada de carbono. Comprometidos com tecnologia verde e soluções de água sustentáveis."
+      }
+    }
+  },
+  "news": {
+    "title": "Últimas Atualizações",
+    "subtitle": "Centro de Conhecimento",
+    "readMore": "Leia Mais",
+    "tabs": {
+      "all": "Todos",
+      "company": "Notícias da Empresa",
+      "knowledge": "Conhecimento de Bombas",
+      "qa": "Perguntas e Respostas"
+    },
+    "items": {
+      "pumpLaunch": {
+        "title": "ALFAGRAND Lança Nova Série de Bombas Multistágio de Alta Eficiência",
+        "excerpt": "Nossa mais nova série de bombas multistágio alcança eficiência líder no setor de 87%, reduzindo o consumo de energia em até 15%.",
+        "category": "Lançamento de Produto",
+        "date": "2026-05-20"
+      },
+      "exhibition": {
+        "title": "Exposição Bem-Sucedida na Water Expo Middle East 2026",
+        "excerpt": "ALFAGRAND apresentou 30+ produtos na exposição de Dubai, estabelecendo novas parcerias com distribuidores de 8 países.",
+        "category": "Evento",
+        "date": "2026-04-15"
+      },
+      "certification": {
+        "title": "Certificação ISO 9001:2015 Renovada com Sucesso",
+        "excerpt": "Nosso sistema de gestão de qualidade passou na auditoria anual com zero não conformidades, mantendo nosso compromisso com a excelência.",
+        "category": "Notícias da Empresa",
+        "date": "2026-03-08"
+      },
+      "pumpSelection": {
+        "title": "Como Selecionar a Bomba de Água Certa para Sua Aplicação",
+        "excerpt": "Conheça os 5 parâmetros-chave para seleção de bombas: vazão, altura manométrica, tipo de bomba, material e cálculo de potência do motor.",
+        "category": "Conhecimento de Bombas"
+      },
+      "pumpMaintenance": {
+        "title": "5 Dicas Essenciais de Manutenção para Estender a Vida Útil do Equipamento",
+        "excerpt": "Manutenção adequada pode estender a vida útil da bomba em 5 a 10 anos. Aprenda monitoramento de vibração, inspeção de selos e boas práticas de lubrificação.",
+        "category": "Conhecimento de Bombas"
+      },
+      "qaFlowRate": {
+        "title": "P&R: Como Calcular a Vazão Certa para Minha Bomba de Irrigação?",
+        "excerpt": "Resposta especializada sobre cálculo de vazão e altura para sistemas de irrigação. Guia passo a passo com exemplos.",
+        "category": "Perguntas e Respostas"
+      }
+    },
+    "qa": {
+      "submitTitle": "Tem uma Pergunta sobre Bombas?",
+      "submitDesc": "Envie sua pergunta para nossa equipe de engenharia. Responderemos e (com sua permissão) publicaremos aqui para ajudar outros.",
+      "submitBtn": "Envie Sua Pergunta"
+    }
+  },
+  "manufacturing": {
+    "label": "CAPACIDADE DE FABRICAÇÃO",
+    "title": "CONSTRUÍDO COM <bold1>PRECISÃO</bold1>. ENTREGUE COM <bold2>CONFIABILIDADE</bold2>.",
+    "subtitle": "Na ALFAGRAND, operamos instalações avançadas equipadas com usinagem CNC de precisão, linhas de montagem automatizadas e laboratórios de teste abrangentes. Nossas capacidades de fabricação integradas nos permitem manter um rigoroso controle de qualidade em cada etapa, desde as matérias-primas até os produtos acabados.",
+    "cards": {
+      "cnc": {
+        "title": "USINAGEM CNC",
+        "desc": "Usinagem CNC de alta precisão garante peças exatas e desempenho estável. Cada componente é fabricado com tolerâncias rigorosas para operação confiável."
+      },
+      "automated": {
+        "title": "PRODUÇÃO AUTOMATIZADA",
+        "desc": "Linhas de produção padronizadas melhoram a eficiência e a consistência. A automação reduz o erro humano e acelera o tempo de entrega mantendo a qualidade."
+      },
+      "testing": {
+        "title": "TESTE DE DESEMPENHO",
+        "desc": "Teste de desempenho em 100% de cada bomba para garantir a confiabilidade antes da entrega. Cada unidade passa por verificação de vazão, pressão e eficiência."
+      },
+      "quality": {
+        "title": "CONTROLE DE QUALIDADE",
+        "desc": "Inspeções de qualidade rigorosas em cada etapa, desde os materiais recebidos até a embalagem final. Sistema de gestão de qualidade certificado ISO 9001."
+      },
+      "assembly": {
+        "title": "LINHA DE MONTAGEM",
+        "desc": "Equipe de montagem qualificada garante que cada produto seja construído com cuidado e precisão. Fluxo de trabalho sistemático com procedimentos padronizados."
+      },
+      "warehouse": {
+        "title": "ARMAZÉM E LOGÍSTICA",
+        "desc": "Gestão eficiente de armazém e sistema logístico global garantindo entregas pontuais em todo o mundo."
+      }
+    },
+    "stats": {
+      "area": "Área de Produção Moderna",
+      "employees": "Funcionários Qualificados",
+      "experience": "Anos de Experiência em Fabricação",
+      "tested": "100% Testado Antes da Entrega",
+      "lines": "Linhas de Produção Padrão Mundial",
+      "equipment": "Equipamentos de Fabricação Avançados"
+    },
+    "footer": "Com mais de 20 anos de experiência em fabricação, a ALFAGRAND combina tecnologia de ponta com mão de obra qualificada. Nossa unidade de produção está equipada para lidar com tudo, desde usinagem de precisão até montagem final, garantindo que cada bomba atenda aos mais altos padrões internacionais de qualidade."
+  },
+  "industries": {
+    "label": "SETORES DE APLICAÇÃO",
+    "titleLine1": "SOLUÇÕES PARA CADA",
+    "titleLine2": "DESAFIO DE ÁGUA",
+    "subtitle": "As bombas ALFAGRAND oferecem desempenho confiável em uma ampla gama de aplicações e ambientes. Do abastecimento de água limpa à transferência industrial, nossas soluções são construídas para durar.",
+    "suitableProducts": "PRODUTOS ADEQUADOS",
+    "cards": {
+      "residential": {
+        "title": "ABASTECIMENTO DE ÁGUA RESIDENCIAL",
+        "desc": "Soluções confiáveis de pressurização de água para residências, apartamentos e complexos de vilas. Garantindo pressão de água consistente para necessidades domésticas diárias.",
+        "p1": "Bomba Periférica",
+        "p2": "Bomba a Jato Autoaspirante",
+        "p3": "Bomba de Frequência Variável"
+      },
+      "agricultural": {
+        "title": "IRRIGAÇÃO AGRÍCOLA",
+        "desc": "Soluções eficientes de irrigação e transferência de água para fazendas, estufas e plantações. Maximizando o rendimento das culturas com distribuição confiável de água.",
+        "p1": "Sistema de Bomba Solar",
+        "p2": "Bomba de Poço Profundo",
+        "p3": "Bomba Centrífuga"
+      },
+      "commercial": {
+        "title": "EDIFÍCIOS COMERCIAIS",
+        "desc": "Sistemas de pressão de água para hotéis, escritórios, shoppings e complexos comerciais. Fornecendo abastecimento ininterrupto de água para ambientes de alta demanda.",
+        "p1": "Bomba Multiestágio e Conjuntos",
+        "p2": "Bomba de Frequência Variável",
+        "p3": "Bomba Centrífuga"
+      },
+      "solar": {
+        "title": "SISTEMAS DE BOMBEAMENTO SOLAR",
+        "desc": "Bombeamento de água sustentável alimentado por energia solar. Ideal para locais remotos sem acesso à rede elétrica.",
+        "p1": "Sistema de Bomba Solar",
+        "p2": "Bomba de Poço Profundo"
+      },
+      "industrial": {
+        "title": "TRANSFERÊNCIA INDUSTRIAL",
+        "desc": "Soluções de bombeamento robustas para fábricas, plantas de processamento e instalações industriais. Gerenciando transferência de fluidos de alto volume com confiabilidade.",
+        "p1": "Bomba Centrífuga",
+        "p2": "Bomba Submersível de Esgoto",
+        "p3": "Bomba Multiestágio e Conjuntos"
+      },
+      "wastewater": {
+        "title": "ÁGUAS RESIDUAIS E DRENAGEM",
+        "desc": "Soluções robustas de drenagem e tratamento de águas residuais para aplicações municipais e industriais de gestão de águas residuais.",
+        "p1": "Bomba Submersível de Esgoto",
+        "p2": "Bomba Centrífuga"
+      }
+    },
+    "features": {
+      "reliable": "Desempenho Confiável",
+      "efficient": "Eficiência Energética",
+      "maintenance": "Fácil Manutenção",
+      "support": "Suporte Profissional",
+      "global": "Soluções Globais"
+    }
+  },
+  "certificates": {
+    "label": "CERTIFICADOS E NORMAS",
+    "titleLine1": "QUALIDADE CERTIFICADA.",
+    "titleLine2": "RECONHECIDA MUNDIALMENTE.",
+    "subtitle": "Fabricado em conformidade com as normas internacionais para garantir qualidade, segurança e confiabilidade em todos os produtos.",
+    "certificates": "Nossos Certificados",
+    "certificationTitle": "Certificações",
+    "certs": {
+      "iso9001": {
+        "label": "ISO 9001",
+        "title": "ISO 9001 - Sistema de Gestão da Qualidade",
+        "desc": "Sistema de gestão da qualidade certificado que garante controle de qualidade consistente em cada etapa da produção, do projeto à entrega."
+      },
+      "ce": {
+        "label": "CE",
+        "title": "CE - Conformidade com o Mercado Europeu",
+        "desc": "Os produtos atendem aos requisitos de saúde, segurança e meio ambiente da UE para o Espaço Econômico Europeu."
+      },
+      "rohs": {
+        "label": "RoHS",
+        "title": "RoHS - Conformidade Ambiental",
+        "desc": "Em conformidade com a diretiva que restringe substâncias perigosas, atendendo às regulamentações globais de meio ambiente e segurança."
+      },
+      "tuv": {
+        "label": "TÜV",
+        "title": "TÜV - Teste e Verificação Independentes",
+        "desc": "Testes e verificação por terceiros realizados pela TÜV, uma das principais organizações de testes independentes do mundo."
+      }
+    },
+    "stats": {
+      "standards": "Normas Internacionais",
+      "countries": "Países Atendidos",
+      "quality": "Garantia de Qualidade",
+      "annual": "Valor de Produção Anual"
+    }
+  },
+  "knowledge": {
+    "label": "CENTRO DE CONHECIMENTO",
+    "titleLine1": "Conhecimento Técnico e",
+    "titleLine2": "Recursos da Indústria",
+    "subtitle": "Explore insights de especialistas, guias práticos e soluções industriais para ajudá-lo a projetar, instalar e manter sistemas de bombeamento com confiança.",
+    "latestTitle": "Últimos Artigos",
+    "latestSubtitle": "Mantenha-se atualizado com o conhecimento da indústria de bombas",
+    "viewAll": "Ver Todos os Artigos",
+    "categories": {
+      "technical": {
+        "title": "INSIGHTS TÉCNICOS",
+        "desc": "Entenda os princípios das bombas, características de desempenho e conceitos técnicos fundamentais.",
+        "viewAll": "VER TODOS OS INSIGHTS TÉCNICOS",
+        "articles": [
+          "Como Ler Curvas de Desempenho de Bombas",
+          "Entendendo Vazão, Altura e Eficiência",
+          "Erros Comuns na Seleção de Bombas a Evitar",
+          "Tipos de Bombas e Seus Princípios de Funcionamento"
+        ]
+      },
+      "maintenance": {
+        "title": "INSTALAÇÃO E MANUTENÇÃO",
+        "desc": "Guias passo a passo e melhores práticas para instalação segura e cuidados de longo prazo com as bombas.",
+        "viewAll": "VER TODA A INSTALAÇÃO E MANUTENÇÃO",
+        "articles": [
+          "Guia de Instalação de Bomba Passo a Passo",
+          "Melhores Práticas de Manutenção de Rotina",
+          "Solução de Problemas Comuns em Bombas",
+          "Como Prolongar a Vida Útil da Sua Bomba"
+        ]
+      },
+      "solutions": {
+        "title": "SOLUÇÕES INDUSTRIAIS",
+        "desc": "Explore aplicações do mundo real e soluções de bombeamento em diversas indústrias.",
+        "viewAll": "VER TODAS AS SOLUÇÕES INDUSTRIAIS",
+        "articles": [
+          "Soluções de Água para Irrigação Agrícola",
+          "Aplicações de Abastecimento de Água de Poços Profundos",
+          "Soluções Industriais de Água e Processos",
+          "Aplicações de Sistemas de Bombeamento Solar"
+        ]
+      }
+    },
+    "articles": {
+      "deepWell": {
+        "title": "Como Selecionar uma Bomba de Poço Profundo para Irrigação Agrícola"
+      },
+      "centrifugal": {
+        "title": "Bomba Periférica vs Bomba Centrífuga: Qual é a Diferença?"
+      },
+      "performance": {
+        "title": "Entendendo as Curvas de Desempenho de Bombas: Um Guia Completo"
+      }
+    }
+  },
+  "cta": {
+    "label": "VAMOS CONSTRUIR MELHORES SOLUÇÕES JUNTOS",
+    "titleLine1": "PRONTO PARA ENCONTRAR A SOLUÇÃO DE",
+    "titleLine2": "BOMBA CERTA?",
+    "subtitle": "Informe-nos seus requisitos e nossa equipe de engenharia recomendará a solução de bomba mais adequada para o seu projeto.",
+    "productShowcase": "Bombas de Poço Profundo, Bombas Centrífugas, Sistemas de Bombeamento Solar, Controladores VFD e mais.",
+    "actions": {
+      "quote": {
+        "title": "SOLICITAR COTAÇÃO",
+        "desc": "Forneça os detalhes do seu projeto e receba uma cotação competitiva rapidamente.",
+        "btn": "SOLICITAR COTAÇÃO"
+      },
+      "whatsapp": {
+        "title": "FALE COM NOSSOS ESPECIALISTAS",
+        "desc": "Converse diretamente com nossos especialistas em bombas no WhatsApp para respostas rápidas.",
+        "btn": "CONVERSAR NO WHATSAPP"
+      },
+      "oem": {
+        "title": "CONSULTA OEM E ODM",
+        "desc": "Soluções de bombas personalizadas para sua marca. Vamos construir juntos.",
+        "btn": "SERVIÇO OEM E ODM"
+      }
+    },
+    "stats": {
+      "experience": "Anos de Experiência",
+      "countries": "Países Atendidos",
+      "models": "Modelos de Bomba",
+      "oem": "OEM e ODM Personalizado"
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Vamos Trabalhar Juntos",
+    "description": "Seja para detalhes de produtos, informações de preços ou soluções personalizadas, nossa equipe está pronta para ajudar.",
+    "labels": {
+      "name": "Seu Nome *",
+      "company": "Empresa",
+      "email": "E-mail *",
+      "product": "Produtos de Interesse",
+      "message": "Mensagem",
+      "send": "Enviar Consulta",
+      "sending": "Enviando..."
+    },
+    "products": {
+      "select": "Selecione uma categoria de produto",
+      "vortex": "Bomba Vortex",
+      "centrifugal": "Bomba Centrífuga",
+      "submersible": "Bomba Submersível",
+      "peripheral": "Bomba Periférica",
+      "jet": "Bomba Jato",
+      "sewage": "Bomba de Esgoto",
+      "multistage": "Bomba Multistágio",
+      "vfd": "Bomba de Frequência Variável",
+      "deepwell": "Bomba de Poço Profundo",
+      "solar": "Sistema de Bomba Solar",
+      "accessories": "Acessórios"
+    },
+    "success": {
+      "title": "Consulta Enviada!",
+      "message": "Retornaremos em até 24 horas."
+    },
+    "error": {
+      "title": "Falha ao enviar.",
+      "message": "Por favor, tente novamente ou envie e-mail diretamente para info@grandpumps.com"
+    },
+    "info": {
+      "office": "Escritório de Yiwu",
+      "phone": "Tel / WhatsApp",
+      "email": "E-mail",
+      "address": "Sala 1102, Unidade 1, Edifício 5, Jiarui Huating, Subdistrito Chengxi, Yiwu, Zhejiang, China"
+    }
+  },
+  "footer": {
+    "description": "Fabricante profissional de bombas de água oferecendo soluções confiáveis para 50+ países em todo o mundo.",
+    "quickLinks": "Links Rápidos",
+    "products": "Produtos",
+    "application": "Aplicação",
+    "knowledge": "Centro de Conhecimento",
+    "about": "Sobre Nós",
+    "contact": "Contato",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyright": "Todos os direitos reservados.",
+    "address": "Sala 501, Unidade 11, Edifício 30, Distrito Xingzhong, Yiwu, Zhejiang, China"
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última atualização: Julho 2026",
+    "s1": {
+      "title": "Informações Coletadas",
+      "content": "Coletamos informações pessoais que você fornece ao enviar formulários em nosso site."
+    },
+    "s2": {
+      "title": "Uso das Informações",
+      "content": "Usamos suas informações para responder a consultas e fornecer cotações."
+    },
+    "s3": {
+      "title": "Compartilhamento",
+      "content": "Não vendemos suas informações pessoais a terceiros."
+    },
+    "s4": {
+      "title": "Segurança",
+      "content": "Implementamos medidas para proteger suas informações pessoais."
+    },
+    "s5": {
+      "title": "Cookies",
+      "content": "Nosso site pode usar cookies para melhorar sua experiência."
+    },
+    "s6": {
+      "title": "Seus Direitos",
+      "content": "Você pode ter o direito de acessar ou excluir seus dados pessoais."
+    },
+    "s7": {
+      "title": "Contato",
+      "content": "Para dúvidas sobre esta política, contate info@grandpumps.com."
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: July 2026",
+    "s1": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing and using the ALFAGRAND website, you agree to be bound by these Terms of Service."
+    },
+    "s2": {
+      "title": "Use of Website",
+      "content": "You may use our website for lawful purposes only. All content including text, images, logos is the property of ALFAGRAND."
+    },
+    "s3": {
+      "title": "Product Information",
+      "content": "Product details, pricing, and availability are subject to change without notice. Images are for illustration purposes."
+    },
+    "s4": {
+      "title": "Intellectual Property",
+      "content": "The ALFAGRAND name and logo are trademarks. You may not use them without prior written permission."
+    },
+    "s5": {
+      "title": "Limitation of Liability",
+      "content": "ALFAGRAND shall not be liable for any damages arising from the use of our website. We provide the website \"as is\"."
+    },
+    "s6": {
+      "title": "Contact",
+      "content": "For questions about these Terms, contact us at info@grandpumps.com. Phone: +86-18657933982."
+    }
+  }
+}

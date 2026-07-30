@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "plugins": [{ "name": "next-intl", "requestConfig": "./src/app/[locale]/config.ts" }]
+  }
+}

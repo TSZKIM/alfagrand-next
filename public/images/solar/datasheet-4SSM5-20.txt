@@ -1,0 +1,3 @@
+ALFAGRAND Solar Submersible Pump Datasheet
+Model: 4SSM5-20
+Demo file for website development. Replace with official PDF datasheet when available.
