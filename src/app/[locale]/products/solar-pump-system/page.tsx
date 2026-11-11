@@ -343,7 +343,7 @@ function SeriesCard({ series, basePath, variant }: { series: SeriesEntry; basePa
   return (
     <div className={`${bg} rounded-xl border border-border-default p-6 flex flex-col hover:shadow-lg hover:border-[#00b8ad]/40 transition-all duration-300 group`}>
       <div className="aspect-[4/3] mb-4 bg-[#f0f5f7] rounded-lg flex items-center justify-center p-4 overflow-hidden">
-        <img src={series.img} alt={series.name} className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" />
+        <img src={series.img} alt={series.name} loading="lazy" decoding="async" className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" />
       </div>
       <h3 className="text-base font-bold text-white mb-1 leading-tight">{series.name}</h3>
       <p className="text-xs text-accent-cyan font-semibold mb-2">{series.tagline}</p>

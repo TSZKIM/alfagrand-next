@@ -76,12 +76,10 @@ export default async function SeriesDetailPage({ params }: Props) {
     brand: { "@type": "Brand", name: "ALFAGRAND" },
     manufacturer: { "@type": "Organization", name: "ALFAGRAND", url: "https://alfagrandpumps.com" },
     category: "Water Pump",
-    offers: {
-      "@type": "AggregateOffer",
-      priceCurrency: "USD",
-      availability: "https://schema.org/InStock",
-      itemCondition: "https://schema.org/NewCondition",
-    },
+    // Inquiry-based B2B pricing: no price is published, so omit `offers` entirely.
+    // A price-less AggregateOffer is invalid for Google Rich Results and triggers
+    // "Missing field lowPrice/price" errors in Search Console.
+    image: `https://alfagrandpumps.com${data.overviewImage}`,
   };
 
   return (
