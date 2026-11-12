@@ -1,7 +1,10 @@
-// Google Analytics 4 — add NEXT_PUBLIC_GA_ID to .env.local to enable
+// GA4 measurement IDs are public client-side values (they appear in page HTML).
+// Prefer an explicit env var so the ID can be overridden per environment,
+// and fall back to the production ID so tracking stays on by default.
+const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_ID || "G-8R976WNQV6";
+
 export default function GoogleAnalytics() {
-  const gaId = process.env.NEXT_PUBLIC_GA_ID;
-  if (!gaId) return null;
+  const gaId = GA_MEASUREMENT_ID;
 
   return (
     <>
